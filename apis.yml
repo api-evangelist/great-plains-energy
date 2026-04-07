@@ -1,7 +1,12 @@
 aid: great-plains-energy
-url: https://raw.githubusercontent.com/api-evangelist/great-plains-energy/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/great-plains-energy/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.great-plains-energy.com
+description: >-
+  Great Plains Energy was the holding company of Kansas City Power & Light, an electric
+  utility serving customers in Missouri and Kansas, before merging with Westar Energy
+  to form Evergy.
