@@ -1,11 +1,23 @@
 # Great Plains Energy
 
-This is a repository for tracking the APIs, SDKs, and other developer resources for Great Plains Energy.
+Great Plains Energy was the holding company of Kansas City Power & Light, an electric utility serving customers in Missouri and Kansas, before merging with Westar Energy in 2018 to form Evergy.
 
 ## APIs
 
-No APIs have been documented yet. Check back for updates.
+No public APIs have been documented. The company was succeeded by Evergy following the 2018 merger.
 
-## Properties
+## Tags
 
-- [Website](https://www.great-plains-energy.com)
+- Energy
+- Utilities
+- Electric
+
+## Common Properties
+
+| Property | URL |
+|----------|-----|
+| Website (Successor) | https://www.evergy.com |
+
+## Maintainers
+
+- **Kin Lane** - kin@apievangelist.com
