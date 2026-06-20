@@ -3,7 +3,7 @@ name: Great Plains Energy
 description: >-
   Great Plains Energy was the holding company of Kansas City Power & Light, an electric utility serving customers in Missouri and Kansas, before merging with Westar Energy in 2018 to form Evergy. No public APIs are documented.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Energy
   - Utilities
